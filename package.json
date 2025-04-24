@@ -1,0 +1,19 @@
+{
+    "name": "pertemuano-05",
+    "version": "1.0.0",
+    "main": "server.js",
+    "license": "ISC",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "description": "",
+    "dependencies": {
+        "body-parser": "^2.2.0",
+        "cors": "^2.8.5",
+        "express": "^5.1.0",
+        "fs": "^0.0.1-security",
+        "nodemon": "^3.1.10"
+    }
+}
